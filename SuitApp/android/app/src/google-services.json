@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141287843744",
+    "project_id": "suit-app-4381c",
+    "storage_bucket": "suit-app-4381c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141287843744:android:9de2ae7473c3e81fdaa6c5",
+        "android_client_info": {
+          "package_name": "com.example.suit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXixsf5i5dKwNf_wiOuXwD3efm2UlXaw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
